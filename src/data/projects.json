@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Travel and Tourism Management",
+      "imageSrc": "projects/travel.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["HTML","Express", "Node","Mongodb"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com/Yash-Bisen/travel-and-tourism"
+    },
+    {
+      "title": "Pharmacy Store Management System",
+      "imageSrc": "projects/pharmacy.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["Java", "JSP", "Servlet", "HTML"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com/Yash-Bisen"
+    },
+    {
+      "title": "Ecommerce Website Clone",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an Website.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com/Yash-Bisen"
+    }
+  ]

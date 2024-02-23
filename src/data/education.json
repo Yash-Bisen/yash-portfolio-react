@@ -1,0 +1,30 @@
+[
+    {
+      "id": 0,
+      "img": "education/AITR.jpg",
+      "school": "Acropolis institute of Technology and Research, Indore",
+      "date": "july 2020 - june 2024",
+      "grade": "7.91 CGPA",
+      "desc": "I am currently pursuing a Bachelor's degree in Information Technology at Acropolis institute of Technologya and Research, Indore.",
+      "degree": "Bachelor of Technology - BTech, Information Technology"
+    },
+    {
+      "id": 1,
+      "img": "education/mplogo.jpg",
+      "school": "Shri Dadabadi Jain Higher Secondry School, Balaghat",
+      "date": "july 2019 - june 2020",
+      "grade": "75%",
+      "desc": "I completed my class 12 high school education at Shri Dadabadi jain hs School, Balaghat, where I studied PCM with Maths.",
+      "degree": "MPBSE(XII),Maths"
+    },
+    {
+      "id": 2,
+      "img": "education/mplogo.jpg",
+      "school": "Shri Dadabadi Jain Higher Secondry School, Balaghat",
+      "date": "july 2017 - june 2018",
+      "grade": "87.8%",
+      "desc": "I completed my class 10 education at Shri Dadabadi jain hs School , balaghat where I studied Science ",
+      "degree": "MPBSE(X), Science"
+    }
+  ]
+  
